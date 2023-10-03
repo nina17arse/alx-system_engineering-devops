@@ -1,0 +1,2 @@
+#!/bin/bash
+compgen -v, awk -v RS=, '1'
